@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chalupasupreme">chalupa supreme</string>
+    <string name="burritosupreme">burrito supreme</string>
+    <string name="beefylayerburrito">beefylayerburrito</string>
+    <string name="softtacosupreme">softtacosupreme</string>
+    <string name="nachocheesedoritoslocostacossupreme">nacho cheese doritos locos tacos supreme</string>
+    <string name="nachospartypackbeef">nachos party pack beef</string>
+    <string name="nachosbellgrande">nachos bell grande</string>
+    <string name="quesadilla">quesadilla</string>
+    <string name="softtaco">soft taco</string>
+    <string name="cheesequesadilla">cheese quesadilla</string>
+    <string name="crunchytacosupreme">crunchy taco supreme</string>
+    <string name="chipsandnachocheesesauce">chips and nacho cheese sauce</string>
+    <string name="header_food_Description">Food Title</string>
+    <string name="header_food_Ingredients">Enter Food Ingredients</string>
+    <string name="header_food_Caloriess">Enter Calories</string>
+    <string name="header_food_Link">Enter Food Website</string>
+    <string name="add_food">ADD FOOD</string>
+</resources>

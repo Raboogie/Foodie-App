@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Foodie App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Info</string>
+    <string name="title_placeholder">Item Title</string>
+
+    <string name="place_holder_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In ante metus dictum at tempor commodo ullamcorper a lacus. Erat nam at lectus urna. Imperdiet proin fermentum leo vel orci porta non. At in tellus integer feugiat scelerisque varius. Purus sit amet luctus venenatis lectus magna fringilla. Sed pulvinar proin gravida hendrerit. Adipiscing tristique risus nec feugiat in fermentum. Fusce id velit ut tortor pretium viverra suspendisse. Id aliquet risus feugiat in ante metus dictum at. Scelerisque eleifend donec pretium vulputate sapien nec sagittis. Tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris a diam maecenas. Congue mauris rhoncus aenean vel elit. Vulputate mi sit amet mauris commodo quis. Accumsan lacus vel facilisis volutpat est velit. Semper feugiat nibh sed pulvinar. Velit ut tortor pretium viverra suspendisse. Habitant morbi tristique senectus et netus et malesuada. Morbi enim nunc faucibus a.
+
+Turpis egestas pretium aenean pharetra magna ac. Cursus sit amet dictum sit amet justo donec enim diam. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. In cursus turpis massa tincidunt dui ut. Tristique senectus et netus et malesuada fames ac. Duis tristique sollicitudin nibh sit amet commodo. Rhoncus mattis rhoncus urna neque viverra justo. Faucibus a pellentesque sit amet porttitor eget dolor morbi. In nibh mauris cursus mattis molestie a. Nunc mattis enim ut tellus elementum sagittis vitae. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Quam pellentesque nec nam aliquam. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Nibh sed pulvinar proin gravida hendrerit lectus. Euismod nisi porta lorem mollis aliquam ut porttitor leo. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur. Eget mi proin sed libero enim sed. Pellentesque eu tincidunt tortor aliquam nulla.
+
+Hac habitasse platea dictumst quisque. Dui sapien eget mi proin. Egestas purus viverra accumsan in nisl. Id eu nisl nunc mi. Est ante in nibh mauris cursus. Non tellus orci ac auctor augue. Porta non pulvinar neque laoreet. Odio morbi quis commodo odio aenean sed adipiscing diam. Consequat id porta nibh venenatis cras sed felis eget velit. Congue eu consequat ac felis donec et. Sagittis orci a scelerisque purus semper eget duis at tellus. Velit dignissim sodales ut eu sem integer vitae justo. Vestibulum morbi blandit cursus risus at ultrices mi. Justo eget magna fermentum iaculis eu non. Aliquam id diam maecenas ultricies mi eget mauris pharetra. Nibh tellus molestie nunc non blandit. Tortor at auctor urna nunc id cursus. Vivamus arcu felis bibendum ut tristique et.
+
+Viverra nam libero justo laoreet sit amet cursus sit. Quis vel eros donec ac. Aenean euismod elementum nisi quis eleifend quam adipiscing. Habitant morbi tristique senectus et netus. A lacus vestibulum sed arcu non. Sodales ut etiam sit amet. Scelerisque fermentum dui faucibus in ornare. At tempor commodo ullamcorper a lacus vestibulum sed. Facilisi etiam dignissim diam quis enim. In pellentesque massa placerat duis ultricies lacus sed. Quis enim lobortis scelerisque fermentum. Facilisis volutpat est velit egestas dui id ornare arcu odio.
+
+Diam sollicitudin tempor id eu nisl nunc mi. Consequat id porta nibh venenatis cras sed felis eget velit. Bibendum est ultricies integer quis auctor elit sed. Quis eleifend quam adipiscing vitae. Nibh praesent tristique magna sit amet purus gravida. Nam at lectus urna duis convallis convallis tellus id interdum. Ut eu sem integer vitae justo eget magna fermentum iaculis. Tellus cras adipiscing enim eu turpis egestas pretium aenean. Id interdum velit laoreet id donec ultrices tincidunt arcu non. Commodo elit at imperdiet dui accumsan. Ut ornare lectus sit amet est placerat. Gravida neque convallis a cras semper auctor neque vitae.</string>
+
+    <string name="chalupasupreme">Chalupa Supreme</string>
+    <string name="burritosupreme">Burrito Supreme</string>
+    <string name="beefylayerburrito">Beefy Layered Burrito</string>
+    <string name="softtacosupreme">Soft Taco Supreme</string>
+    <string name="nachocheesedoritoslocostacossupreme">Nacho Cheese Doritos Locos Tacos Supreme</string>
+    <string name="nachospartypackbeef">nachos party pack beef</string>
+    <string name="nachosbellgrande">nachos bell grande</string>
+    <string name="quesadilla">Quesadilla</string>
+    <string name="softtaco">Soft Taco</string>
+    <string name="cheesequesadilla">Cheese Quesadilla</string>
+    <string name="crunchytacosupreme">crunchy taco supreme</string>
+    <string name="chipsandnachocheesesauce">Chips and Nacho Cheese Sauce</string>
+
+    <string name="header_food_Description">Food Description</string>
+    <string name="header_food_Ingredients">Enter Food Ingredients</string>
+    <string name="header_food_Caloriess">Enter Calories</string>
+    <string name="header_food_Link">Enter Food Website</string>
+
+    <string name="add_food">ADD FOOD</string>
+
+    <string name="no_food_chosen_yet">NO FOOD CHOSEN YET</string>
+    <string name="submit">SUBMIT</string>
+    <string name="header_food_title">Food Title</string>
+
+    <string-array name="meal_item_titles">
+        <item>Cheesy Gordita Crunch</item>
+        <item>Steak Quesadilla</item>
+        <item>Quesarito</item>
+        <item>Quesalupa</item>
+        <item>Crunch Wrap Supreme</item>
+        <item>Veggie Nacho Sports Pack</item>
+
+    </string-array>
+
+    <string-array name="meal_item_info">
+        <item>Here Are some Cheesy Gordita Crunch!</item>
+        <item>Here Are some Steak Quesadilla!</item>
+        <item>Here Are some Quesarito!</item>
+        <item>Here Are some Quesalupa!</item>
+        <item>Here Are some Crunch Wrap Supreme!</item>
+        <item>Here Are some Veggie Nacho Sports Pack!</item>
+
+    </string-array>
+
+    <string-array name="meal_item_images">
+        <item>@drawable/cheesygorditacrunch</item>
+        <item>@drawable/steakquesadilla</item>
+        <item>@drawable/quesarito</item>
+        <item>@drawable/quesalupa</item>
+        <item>@drawable/crunchwrapsupreme</item>
+        <item>@drawable/veggienachospartypack</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FoodChooserActivity">
+
+    <GridLayout
+        android:id="@+id/gridLayout_Food_Images"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="2">
+
+        <ImageButton
+            android:id="@+id/button_chalupa_supreme"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/chalupasupreme"
+            android:contentDescription="@string/chalupasupreme" />
+
+
+        <ImageButton
+            android:id="@+id/button_burrito_supreme"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/burritosupreme"
+            android:contentDescription="@string/burritosupreme"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_beefy_layer_burrito"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/beefylayerburrito"
+            android:contentDescription="@string/beefylayerburrito"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_soft_taco_supreme"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/softtacosupreme"
+            android:contentDescription="@string/softtacosupreme"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_nacho_cheese_doritos_locos_tacos_supreme"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/nachocheesedoritoslocostacossupreme"
+            android:contentDescription="@string/nachocheesedoritoslocostacossupreme"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_nachos_party_pack_beef"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/nachospartypackbeef"
+            android:contentDescription="@string/nachospartypackbeef"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_nachos_bell_grande"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/nachosbellgrande"
+            android:contentDescription="@string/nachosbellgrande"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_cheese_quesadilla"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/cheesequesadilla"
+            android:contentDescription="@string/cheesequesadilla"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_quesadilla"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/quesadilla"
+            android:contentDescription="@string/quesadilla"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_softtaco"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/softtaco"
+            android:contentDescription="@string/softtaco"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_crunchy_taco_supreme"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/crunchytacosupreme"
+            android:contentDescription="@string/crunchytacosupreme"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/button_chips_and_nacho_cheese_sauce"
+            android:layout_width="@dimen/button_icon_width"
+            android:layout_height="@dimen/button_icon_height"
+            android:layout_margin="@dimen/button_margin"
+            android:background="@drawable/chipsandnachocheesesauce"
+            android:contentDescription="@string/chipsandnachocheesesauce"
+            android:scaleType="fitCenter" />
+    </GridLayout>
+
+</ScrollView>
